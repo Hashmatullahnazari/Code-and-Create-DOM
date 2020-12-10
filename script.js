@@ -646,4 +646,7 @@ console.log(animals);
 //}
 
 
+document.getElementById();
+
+
 
